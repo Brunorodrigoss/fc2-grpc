@@ -24,7 +24,7 @@ Compile .proto files and generates go stubs
 protoc --proto_path=proto proto/*.proto --go_out=pb --go-grpc_out=pb
 ```
 
-###Links
+### Links
 
 [Go lang](https://golang.org/)
 
